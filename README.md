@@ -7,3 +7,4 @@ Torchmetrics Version : 1.2.0
 
 # References
 EEGNet : A Compact Convolutional Neural Network for EEG-based Brain-Computer Interfaces
+DOI : 10.1088/1741-2552/aace8c
