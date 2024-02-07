@@ -1,5 +1,5 @@
 # EEGNet_Pytorch
-#### This code implements the EEG Net deep learning model using PyTorch. The EEG Net model is based on the research paper titled "EEGNet: A Compact Convolutional Neural Network for EEG-based Brain-Computer Interfaces".
+#### This code implements the EEG Net deep learning model using PyTorch. The EEG Net model is based on the research paper titled "EEGNet: A Compact Convolutional Neural Network for EEG-based Brain-Computer Interfaces". EEG Net is a compact convolutional network that is both lightweight with few parameters and powerful in processing raw EEG signals.
 
 # My Environment Information
 #### Python Version       : 3.9.18
